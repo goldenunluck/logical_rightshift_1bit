@@ -8,12 +8,6 @@ A Verilog implementation of an 8-bit logical right shifter with a 1-bit shift ma
   - `out` (8-bit shifted result: `{1'b0, in[7:1]}`)
   - `cout` (1-bit dropped bit from `in[0]`)
 
-## Project Structure
-```text
-├── logical_rshift.v      # Design module containing shifter logic
-├── tb_logical_rshift.v   # Testbench module driving simulation vectors
-└── README.md             # Documentation
-```
 
 ## Simulation and Verification
 
