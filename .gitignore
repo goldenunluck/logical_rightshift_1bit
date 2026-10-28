@@ -1,0 +1,12 @@
+# Compiled binaries
+design_logical_rshift
+
+# Simulation waveform outputs
+*.vcd
+
+# GtkWave configuration files (optional, skip if you want to save your signal layouts)
+*.gtkw
+
+# Temporary or backup files from text editors
+*~
+*.swp
